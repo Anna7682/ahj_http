@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/s6ehe4m50mmxwmbb/branch/master?svg=true)](https://ci.appveyor.com/project/Redhead80/ahj-http/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/oulk01ge70n5pias/branch/main?svg=true)](https://ci.appveyor.com/project/Anna7682/ahj-http/branch/main)
 
-[GitHub Pages](https://redhead80.github.io/ahj-http/)
+[GitHub Pages](https://anna7682.github.io/ahj_http/)
 
 ### HelpDesk: Frontend
 
